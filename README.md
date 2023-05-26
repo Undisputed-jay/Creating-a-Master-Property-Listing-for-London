@@ -1,9 +1,12 @@
 # Creating-a-Master-Property-Listing-for-Listing
 The goal of this project is create is to create a master list of listed properties starting with London. The task is to extract and blend property datasets across the Greater London area (United Kingdom) in one dataset.
+
 ## Property sites: 
 Rightmove, Zoopla and On The Market (OTM)
+
 ## Required fields
-<li>Transaction type (i.e. sale vs. rent - string)</li><li><Bedrooms (integer)</li>
+<li>Transaction type (i.e. sale vs. rent - string)</li>
+<li><Bedrooms (integer)</li>
 <li>Bathrooms (integer)</li>
 <li>Description (free text string)</li>
 <li>Property type e.g. flat, detached house, terraced house</li>
@@ -19,4 +22,5 @@ Rightmove, Zoopla and On The Market (OTM)
 Greater London
 
 ## Process
-<li>Extract/ scrape the datasets from all the above websites for a given day of your choosing</li>
+<li>Extract/ scrape the datasets from all the above websites for a given day of your choosing.</li>
+<li>Blend these data sets together into one dataset with unique records.</li>
